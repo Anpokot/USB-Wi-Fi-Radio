@@ -212,7 +212,7 @@ UniqueID=49F827FF-AF97-4C0D-B941-81D928F125FD
 Description=SMT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=16
+VariationCount=19
 Variation1=Designator=J1|UniqueId=\ARLUOHBS|Kind=1|AlternatePart= 
 Variation2=Designator=JP1|UniqueId=\PTQDDQMW|Kind=1|AlternatePart= 
 Variation3=Designator=JP2|UniqueId=\EIVNUUOA|Kind=1|AlternatePart= 
@@ -229,10 +229,93 @@ Variation13=Designator=R23|UniqueId=\OMLCVTYI|Kind=1|AlternatePart=
 Variation14=Designator=C28|UniqueId=\NNEQRJNG|Kind=1|AlternatePart= 
 Variation15=Designator=JP3|UniqueId=\VDJBPBBW|Kind=1|AlternatePart= 
 Variation16=Designator=JP4|UniqueId=\JTNOSWEP|Kind=1|AlternatePart= 
+Variation17=Designator=U3|UniqueId=\WMYZEXDL|Kind=1|AlternatePart= 
+Variation18=Designator=U5|UniqueId=\XMULUHVC|Kind=1|AlternatePart= 
+Variation19=Designator=C10|UniqueId=\XNCRYLFM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for USB Wi-Fi Radio\Design Rule Check - USB Wi-Fi.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Generated files\BOM\USB Wi-Fi Radio BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.csv
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.txt
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Generated files\BOM\USB Wi-Fi Radio SMT Top BOM.xlsx
 DItemRevisionGUID=
 
 [Configuration1]
