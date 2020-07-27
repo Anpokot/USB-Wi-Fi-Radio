@@ -6,3 +6,11 @@ Project Outputs *
 PIFA CST/
 Generated files/
 Lib/
+read_me.txt
+Release Document for Altium Designer.txt
+*.apr
+*.EXTREP
+*.REP
+*.RUL
+*.APR_LIB
+Status Report.Txt
