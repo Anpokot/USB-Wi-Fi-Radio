@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Wi-Fi Radio.SchDoc
+Record=SheetSymbol|SourceDocument=Wi-Fi Radio.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[01] VS1053.SchDoc|SymbolType=Normal|RawFileName=[01] VS1053.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Wi-Fi Radio.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[00] ESP8266 CH340.SchDoc|SymbolType=Normal|RawFileName=[00] ESP8266 CH340.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
