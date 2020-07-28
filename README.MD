@@ -5,6 +5,8 @@ Wi-Fi webradio in USB-stick format
 Used to be powered from powerbank or PC and use headphones or an external amp for listening 
 ![](/board.png)
 
+![](/pcb.png)
+
 ![](/sch1.png)
 
 ![](/sch2.png)
