@@ -235,86 +235,194 @@ Variation19=Designator=C10|UniqueId=\XNCRYLFM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\Design Rule Check - USB Wi-Fi.html
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Generated files\BOM\USB Wi-Fi Radio BOM.xlsx
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-RoundHoles.TXT
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-SlotHoles.TXT
+DocumentPath=Project Outputs for USB Wi-Fi Radio\Design Rule Check - USB Wi-Fi.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.csv
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\board\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.DRR
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.EXTREP
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBL
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBO
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBP
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBS
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GM3
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTL
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTO
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTP
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTS
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.LDP
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.REP
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.RUL
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_enclosure\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.txt
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for USB Wi-Fi Radio\USB Wi-Fi.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Generated files\BOM\USB Wi-Fi Radio BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.csv
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.REP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.txt
+DItemRevisionGUID=
+
+[GeneratedDocument48]
 DocumentPath=Generated files\BOM\USB Wi-Fi Radio SMT Top BOM.xlsx
 DItemRevisionGUID=
 
@@ -537,73 +645,77 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+Configuration6_Name1=ForceUpdateSettings
+Configuration6_Item1=False
+Configuration6_Name2=OutputConfigurationParameter1
+Configuration6_Item2=AddToAllLayerClasses.Set= |AddToAllPlots_Board=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top Enclosure=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]
