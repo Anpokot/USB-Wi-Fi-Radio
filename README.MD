@@ -9,5 +9,5 @@ Used to be powered from powerbank or PC and use headphones or an external amp fo
 
 ![](/sch2.png)
 
-Enclosure prototype pof 3D print:
+Enclosure prototype for 3D print:
 ![](/enclosure.png)
