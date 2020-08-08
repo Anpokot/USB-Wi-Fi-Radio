@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for USB Wi-Fi Radio
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -44,11 +44,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -61,11 +61,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -78,11 +78,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -140,6 +140,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
+DocumentPath=USB Wi-Fi Radio\Wi-FiR.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HTSJMOTT
+
+[Document8]
 DocumentPath=USB Wi-Fi Radio\JLC_Lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,432 +173,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLPWJFTR
 
-[Document8]
-DocumentPath=USB Wi-Fi Radio\USB Wi-Fi.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DQVQTQIO
-
-[Document9]
-DocumentPath=USB Wi-Fi Radio\JLC_Lib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JRSCFOFU
-
-[Document10]
-DocumentPath=USB Wi-Fi Radio\ViaLib.PvLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[ProjectVariant1]
-UniqueID=49F827FF-AF97-4C0D-B941-81D928F125FD
-Description=SMT Single
-AllowFabrication=0
-ParameterCount=0
-VariationCount=19
-Variation1=Designator=J1|UniqueId=\ARLUOHBS|Kind=1|AlternatePart= 
-Variation2=Designator=JP1|UniqueId=\PTQDDQMW|Kind=1|AlternatePart= 
-Variation3=Designator=JP2|UniqueId=\EIVNUUOA|Kind=1|AlternatePart= 
-Variation4=Designator=X1|UniqueId=\QFHYETVQ|Kind=1|AlternatePart= 
-Variation5=Designator=X2|UniqueId=\THDWZNMN|Kind=1|AlternatePart= 
-Variation6=Designator=A1|UniqueId=\CMXDIWTX|Kind=1|AlternatePart= 
-Variation7=Designator=L2|UniqueId=\MCLASAKZ|Kind=1|AlternatePart= 
-Variation8=Designator=U1|UniqueId=\OEWEDEWH|Kind=1|AlternatePart= 
-Variation9=Designator=C13|UniqueId=\JZFWHXWD|Kind=1|AlternatePart= 
-Variation10=Designator=C27|UniqueId=\RDREGELZ|Kind=1|AlternatePart= 
-Variation11=Designator=Q1|UniqueId=\TTAQKBMO|Kind=1|AlternatePart= 
-Variation12=Designator=C29|UniqueId=\OKEXTWOT|Kind=1|AlternatePart= 
-Variation13=Designator=R23|UniqueId=\OMLCVTYI|Kind=1|AlternatePart= 
-Variation14=Designator=C28|UniqueId=\NNEQRJNG|Kind=1|AlternatePart= 
-Variation15=Designator=JP3|UniqueId=\VDJBPBBW|Kind=1|AlternatePart= 
-Variation16=Designator=JP4|UniqueId=\JTNOSWEP|Kind=1|AlternatePart= 
-Variation17=Designator=U3|UniqueId=\WMYZEXDL|Kind=1|AlternatePart= 
-Variation18=Designator=U5|UniqueId=\XMULUHVC|Kind=1|AlternatePart= 
-Variation19=Designator=C10|UniqueId=\XNCRYLFM|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Release Files\[4] 3D\3D Model RadioStick [No Variations].step
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Release Files\[2] Board Assembly\RadioStick SMT Single\BOM Component Reference RadioStick SMT Single.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Release Files\[2] Board Assembly\RadioStick SMT Single\BOM Purchasing RadioStick SMT Single.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Release Files\[2] Board Assembly\RadioStick SMT Single\BOM Reference Group RadioStick SMT Single.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\Design Rule Check - USB Wi-Fi.html
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\board\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_enclosure\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\My28Pins-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\My28Pins-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\My28Pins.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\My28Pins.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.REP
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\My28Pins.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\RadioStick-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\RadioStick-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\RadioStick.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Release Files\[1] PCB Manufacturing\NC Drill\RadioStick.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.REP
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Release Files\[1] PCB Manufacturing\Gerber\RadioStick.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for USB Wi-Fi Radio\USB Wi-Fi.REP
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Generated files\BOM\USB Wi-Fi Radio BOM.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.csv
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=Generated files\NC Drill\USB Wi-Fi Radio SMT.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.REP
-DItemRevisionGUID=
-
-[GeneratedDocument82]
-DocumentPath=Generated files\Gerber\USB Wi-Fi Radio SMT.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument83]
-DocumentPath=Generated files\Pick Place\USB Wi-Fi Radio SMT.txt
-DItemRevisionGUID=
-
-[GeneratedDocument84]
-DocumentPath=Generated files\BOM\USB Wi-Fi Radio SMT Top BOM.xlsx
-DItemRevisionGUID=
-
-[Parameter1]
-Name=Link
-Value=https://github.com/Anpokot
-
-[Parameter2]
-Name=Company
-Value=Andrii Pokotilov
-
-[Parameter3]
-Name=Project
-Value=RadioStick
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -591,9 +182,6 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
-
-[Generic_EDE]
-OutputDir=Project Outputs for USB Wi-Fi Radio
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -766,8 +354,6 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=
@@ -806,77 +392,73 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=IPC2581
-OutputName3=IPC-2581 Files
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=Test Points
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Final
+OutputName4=Final Artwork Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Plane
-OutputName5=Power-Plane Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber
+OutputName5=Gerber Files
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType6=ODB
-OutputName6=ODB++ Files
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
 OutputDocumentPath6=
-OutputVariantName6=[No Variations]
+OutputVariantName6=
 OutputDefault6=0
-Configuration6_Name1=ForceUpdateSettings
-Configuration6_Item1=False
-Configuration6_Name2=OutputConfigurationParameter1
-Configuration6_Item2=AddToAllLayerClasses.Set= |AddToAllPlots_Board=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top Enclosure=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
-OutputType7=Drill
-OutputName7=Drill Drawing/Guides
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=CompositeDrill
-OutputName8=Composite Drill Drawing
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Board Stack Report
-OutputName9=Report Board Stack
+OutputType9=NC Drill
+OutputName9=NC Drill Files
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=Gerber X2
-OutputName10=Gerber X2 Files
+OutputType10=ODB
+OutputName10=ODB++ Files
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Final
-OutputName11=Final Artwork Prints
+OutputType11=Plane
+OutputName11=Power-Plane Prints
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Gerber
-OutputName12=Gerber Files
+OutputType12=Test Points
+OutputName12=Test Point Report
 OutputDocumentPath12=
-OutputVariantName12=[No Variations]
+OutputVariantName12=
 OutputDefault12=0
 
 [OutputGroup6]
@@ -1400,7 +982,7 @@ Type65=1
 Type66=1
 
 [Electrical Rules Check]
-Type1=0
+Type1=1
 Type2=1
 Type3=2
 Type4=1
@@ -1567,228 +1149,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=JLC_Lib.SchLib
-ComponentDesignItemID0=0402CG220J500NT
-ComponentSymbolReference0=0402CG220J500NT
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=JLC_Lib.SchLib
-ComponentDesignItemID1=0402CG330J500NT
-ComponentSymbolReference1=0402CG330J500NT
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=JLC_Lib.SchLib
-ComponentDesignItemID2=0402CG6R8C500NT
-ComponentSymbolReference2=0402CG6R8C500NT
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=JLC_Lib.SchLib
-ComponentDesignItemID3=0402WGF0000TCE
-ComponentSymbolReference3=0402WGF0000TCE
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=JLC_Lib.SchLib
-ComponentDesignItemID4=0402WGF1001TCE
-ComponentSymbolReference4=0402WGF1001TCE
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=JLC_Lib.SchLib
-ComponentDesignItemID5=0402WGF1003TCE
-ComponentSymbolReference5=0402WGF1003TCE
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=JLC_Lib.SchLib
-ComponentDesignItemID6=0402WGF1004TCE
-ComponentSymbolReference6=0402WGF1004TCE
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=JLC_Lib.SchLib
-ComponentDesignItemID7=0402WGF1202TCE
-ComponentSymbolReference7=0402WGF1202TCE
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=JLC_Lib.SchLib
-ComponentDesignItemID8=0402WGF220JTCE
-ComponentSymbolReference8=0402WGF220JTCE
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=JLC_Lib.SchLib
-ComponentDesignItemID9=0402WGF4700TCE
-ComponentSymbolReference9=0402WGF4700TCE
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=JLC_Lib.SchLib
-ComponentDesignItemID10=19-217/BHC-ZL1M2RY/3T
-ComponentSymbolReference10=19-217/BHC-ZL1M2RY/3T
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=JLC_Lib.SchLib
-ComponentDesignItemID11=19-217/GHC-YR1S2/3T
-ComponentSymbolReference11=19-217/GHC-YR1S2/3T
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=JLC_Lib.SchLib
-ComponentDesignItemID12=480372100
-ComponentSymbolReference12=480372100
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=JLC_Lib.SchLib
-ComponentDesignItemID13=AMS1117-3.3
-ComponentSymbolReference13=AMS1117-3.3
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=JLC_Lib.SchLib
-ComponentDesignItemID14=BL1117-18CX
-ComponentSymbolReference14=BL1117-18CX
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=JLC_Lib.SchLib
-ComponentDesignItemID15=CH340G
-ComponentSymbolReference15=CH340G
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=JLC_Lib.SchLib
-ComponentDesignItemID16=CL05A105KA5NQNC
-ComponentSymbolReference16=CL05A105KA5NQNC
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=JLC_Lib.SchLib
-ComponentDesignItemID17=CL05A106MQ5NUNC
-ComponentSymbolReference17=CL05A106MQ5NUNC
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=JLC_Lib.SchLib
-ComponentDesignItemID18=CL05B103KB5NNNC
-ComponentSymbolReference18=CL05B103KB5NNNC
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=JLC_Lib.SchLib
-ComponentDesignItemID19=CL05B103KB5NNNC_1
-ComponentSymbolReference19=CL05B103KB5NNNC_1
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=JLC_Lib.SchLib
-ComponentDesignItemID20=CL05B104KO5NNNC
-ComponentSymbolReference20=CL05B104KO5NNNC
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=JLC_Lib.SchLib
-ComponentDesignItemID21=CL05B473K05NNNC
-ComponentSymbolReference21=CL05B473K05NNNC
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=JLC_Lib.SchLib
-ComponentDesignItemID22=ESP8266EX
-ComponentSymbolReference22=ESP8266EX
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=JLC_Lib.SchLib
-ComponentDesignItemID23=KT-0603R
-ComponentSymbolReference23=KT-0603R
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=JLC_Lib.SchLib
-ComponentDesignItemID24=PJ-320D-X
-ComponentSymbolReference24=PJ-320D-X
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=JLC_Lib.SchLib
-ComponentDesignItemID25=S8050
-ComponentSymbolReference25=S8050
-ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=JLC_Lib.SchLib
-ComponentDesignItemID26=SDCL1005C4N3STDF
-ComponentSymbolReference26=SDCL1005C4N3STDF
-ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=JLC_Lib.SchLib
-ComponentDesignItemID27=SRV05-4-P-T7
-ComponentSymbolReference27=SRV05-4-P-T7
-ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=JLC_Lib.SchLib
-ComponentDesignItemID28=TAJA106K016RNJ
-ComponentSymbolReference28=TAJA106K016RNJ
-ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
-ComponentLibIdentifierKind29=Library Name And Type
-ComponentLibraryIdentifier29=JLC_Lib.SchLib
-ComponentDesignItemID29=TS-1187A-B-A-B
-ComponentSymbolReference29=TS-1187A-B-A-B
-ComponentUpdate29=1
-ComponentIsDeviceSheet29=0
-ComponentLibIdentifierKind30=Library Name And Type
-ComponentLibraryIdentifier30=JLC_Lib.SchLib
-ComponentDesignItemID30=VS1053B-L
-ComponentSymbolReference30=VS1053B-L
-ComponentUpdate30=1
-ComponentIsDeviceSheet30=0
-ComponentLibIdentifierKind31=Library Name And Type
-ComponentLibraryIdentifier31=JLC_Lib.SchLib
-ComponentDesignItemID31=W25Q128JVSIQ
-ComponentSymbolReference31=W25Q128JVSIQ
-ComponentUpdate31=1
-ComponentIsDeviceSheet31=0
-ComponentLibIdentifierKind32=Library Name And Type
-ComponentLibraryIdentifier32=JLC_Lib.SchLib
-ComponentDesignItemID32=X322512288MOB4SC
-ComponentSymbolReference32=X322512288MOB4SC
-ComponentUpdate32=1
-ComponentIsDeviceSheet32=0
-ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=JLC_Lib.SchLib
-ComponentDesignItemID33=X322512MSB4SI
-ComponentSymbolReference33=X322512MSB4SI
-ComponentUpdate33=1
-ComponentIsDeviceSheet33=0
-ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=JLC_Lib.SchLib
-ComponentDesignItemID34=X322526MEB4SC
-ComponentSymbolReference34=X322526MEB4SC
-ComponentUpdate34=1
-ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=WiFi_Lib.SchLib
-ComponentDesignItemID35=MIFA 2.4GHz
-ComponentSymbolReference35=MIFA 2.4GHz
-ComponentUpdate35=1
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=WiFi_Lib.SchLib
-ComponentDesignItemID36=NC IND
-ComponentSymbolReference36=NC IND
-ComponentUpdate36=1
-ComponentIsDeviceSheet36=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1802,43 +1162,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Category
-ParameterUpdate0=1
-ParameterName1=Comment
-ParameterUpdate1=1
-ParameterName2=Component Kind
-ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
-ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
-ParameterUpdate4=1
-ParameterName5=Datasheet
-ParameterUpdate5=1
-ParameterName6=Description
-ParameterUpdate6=1
-ParameterName7=LCSC Part #
-ParameterUpdate7=1
-ParameterName8=Library Reference
-ParameterUpdate8=1
-ParameterName9=Library Type
-ParameterUpdate9=1
-ParameterName10=Manufacturer
-ParameterUpdate10=1
-ParameterName11=MFR.Part #
-ParameterUpdate11=1
-ParameterName12=Package
-ParameterUpdate12=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=0402
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=0402 RES
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=3.5mm Jack
-ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

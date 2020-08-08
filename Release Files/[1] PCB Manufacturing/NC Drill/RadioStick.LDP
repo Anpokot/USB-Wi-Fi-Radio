@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Work\GitHub\USB-Wi-Fi-Radio\USB Wi-Fi Radio\USB Wi-Fi.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=radiostick-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=radiostick-slotholes.txt|DrillLayers=gtl,gbl

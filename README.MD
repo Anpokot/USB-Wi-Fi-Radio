@@ -7,6 +7,12 @@ Used to be powered from powerbank or PC and use headphones or an external amp fo
 
 ![](/pcb.png)
 
+![](/ASMTopView.png)
+
+![](/Mecha.png)
+
+![](/ASMTop.png)
+
 ![](/sch1.png)
 
 ![](/sch2.png)
